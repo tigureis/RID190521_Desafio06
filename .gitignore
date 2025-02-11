@@ -1,0 +1,6 @@
+.venv
+/airflow/.env
+/airflow/logs
+/airflow/dags/__pycache__
+/airflow/dags/app/__pycache__
+/airflow/dags/app/__init__.py
